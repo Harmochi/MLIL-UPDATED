@@ -86,6 +86,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Tween\TweenUiSize.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SpriteRenderer\SetSprite.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetPlayOnAwake.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SpriteRenderer\SetSpriteMaskInteraction.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\AnimatorMatchTarget.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\EventSystem\UiOnMoveEvent.cs" />
@@ -93,6 +94,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\GUILayout\UseGUILayout.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Gamepad\GamepadButtonEvents.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Array\SetFsmArrayItem.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\PlayerInput\PlayerInputPerformedEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\WaitAnyKey.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Convert\ConvertIntToFloat.cs" />
@@ -184,6 +186,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiScrollbarGetDirection.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Array\ArrayForEach.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Trigonometry\GetSine.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\Selectable\UiExplicitNavigationGetProperties.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SpriteRenderer\SetSpriteSortPoint.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\GetAnimatorCurrentTransitionInfo.cs" />
@@ -198,6 +201,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Movie\StopMovieTexture.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\SetFsmVector2.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\String\GetStringLeft.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\Touch Object 2d Event.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Time\PerSecond.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\AnimatorPlay.cs" />
@@ -262,6 +266,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Application\GetScreenHeight.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\GetAxis.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SceneManager\CreateScene.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\SequenceEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\AnimateVariables\CurveFloat.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiScrollbarOnValueChangedEvent.cs" />
@@ -269,6 +274,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\SetGravity2dScale.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerSetSource.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiInputFieldSetHideMobileInput.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Tween\TweenRect.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector2\Vector2PerSecond.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetEventBoolData.cs" />
@@ -343,6 +349,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\GetVelocity2d.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\KillDelayedEvents.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\SetFsmMaterial.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiScrollbarSetDirection.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\SetCollider2dIsTrigger.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Lights\SetLightColor.cs" />
@@ -351,6 +358,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformSetSizeDelta.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\FloatInterpolate.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerSetPlaybackSpeed.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\IntOperator.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Transform\MoveTowards.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GameObject\DestroyComponent.cs" />
@@ -394,6 +402,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiRawImageSetRaycastTarget.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics\SetJointConnectedBody.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmColor.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\SetAnimatorPlayBackSpeed.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformSetOffsetMax.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Audio\AudioPause.cs" />
@@ -407,12 +416,14 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Quaternion\QuaternionLerp.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\MousePick2d.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerSetPlayOnAwake.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\MousePickEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\Selectable\UiTransitionGetType.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Tween\TweenScale.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\AnimatorStartPlayback.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector2\Vector2Interpolate.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3ClampMagnitudeXZ.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiSliderSetDirection.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SceneManager\GetSceneRootCount.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformScreenPointToWorldPointInRectangle.cs" />
@@ -452,6 +463,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Character\GetControllerCollisionFlags.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUILayout\GUILayoutHorizontalSlider.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\AddTorque2d.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RenderSettings\SetFlareStrength.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector2\Vector2AddXY.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\FloatMultiply.cs" />
@@ -500,6 +512,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\PlayerPrefs\PlayerPrefsDeleteKey.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Device\ProjectLocationToMap.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Logic\FsmStateTest.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\GetJointBreak2dInfo.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Character\ControllerIsGrounded.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SceneManager\GetSceneIsDirty.cs" />
@@ -508,16 +521,19 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\BoolFlip.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Convert\ConvertBoolToString.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\SampleCurve.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\SetIsFixedAngle2d.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\GetKeyUp.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\ScreenPick.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\EventSystem\UiOnCancelEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetTimeSource.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\SetEventFloatData.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUILayout\GUILayoutEmailField.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmObject.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUI\SetGUIAlpha.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiInputFieldGetPlaceHolder.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SceneManager\SetActiveScene.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\SetFsmRect.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Quaternion\GetQuaternionFromRotation.cs" />
@@ -533,6 +549,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Quaternion\GetQuaternionMultipliedByVector.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformGetAnchorMinAndMax.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUIElement\SetGUITexture.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\GetAnimatorCullingMode.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerSetSkipOnDrop.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Array\SetFsmArray.cs" />
@@ -547,6 +564,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetVideoClip.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GameObject\FindGameObject.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\ComponentAction.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GameObject\GetChild.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Character\ControllerMove.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\SetIntValue.cs" />
@@ -575,6 +593,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\SpriteRenderer\SetSpriteColor.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Device\SwipeGestureEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\PlayerInput\PlayerInputUpdateActionBase.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmQuaternion.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\SetVector3Value.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\ProceduralMaterial\SetProceduralVector3.cs" />
@@ -609,6 +628,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\Layout\UiLayoutElementSetValues.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\AnimateVariables\EaseRect.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Material\SetRandomMaterial.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\GetKeyDown.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3Multiply.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetTime.cs" />
@@ -636,6 +656,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Animation\BlendAnimation.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\IntWrap.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3Invert.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerSetTimeSource.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerStartedEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animation\SetAnimationSpeed.cs" />
@@ -706,6 +727,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\SendEventToFsm.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Debug\BaseLogAction.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3Normalize.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmBool.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Audio\PlayRandomSound.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformSetAnchorMax.cs" />
@@ -725,6 +747,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics\FindOverlaps.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\AnimateVariables\AnimateFloatV2.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics\GetTriggerInfo.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\PlayerInput\PlayerInputGetVector2.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiButtonOnClickEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\EventSystem\UiOnPointerUpEvent.cs" />
@@ -792,6 +815,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\GetAnimatorLayerWeight.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\MovePosition2d.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\EventSystem\UiOnScrollEvent.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\BaseFsmVariableIndexAction.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUI\GUIBox.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics\CollisionEvent.cs" />
@@ -850,12 +874,13 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\SceneManager\GetSceneProperties.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\ActionHelpers.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetEventVector2Data.cs" />
-    <Compile Include="Assets\Other\PlayMaker\Actions\Character\ControllerJump.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoClip\VideoClipGetFrameRate.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Material\SetVisibility.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Transform\SimpleLook.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmFloat.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\String\StringJoin.cs" />
+    <Compile Include="Assets\Other\PlayMaker\Actions\Character\ControllerJump.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics2D\IsKinematic2d.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SceneManager\SendActiveSceneChangedEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetIsPlaying.cs" />
@@ -898,6 +923,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Array\ArrayGet.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetTargetTexture.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Device\DeviceOrientationEvent.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\RandomInt.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUILayout\GUILayoutBeginHorizontal.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\PlayerInput\PlayerInputButtonEvents.cs" />
@@ -917,6 +943,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\GUILayout\GUILayoutToggle.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\AnimateVariables\EaseColor.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetEventSentBy.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics\SetIsKinematic.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\EventSystem\UiOnPointerClickEvent.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3RotateTowards.cs" />
@@ -948,6 +975,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3HighPassFilter.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformGetOffsetMax.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector3\Vector3LowPassFilter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformSetLocalRotation.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Transform\AlignToDirection.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmTexture.cs" />
@@ -1026,15 +1054,18 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\GameObject\SelectRandomGameObject.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformSetScreenRectFromPoints.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Audio\SetAudioPitch.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Time\GetTimeInfo.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Lights\SetLightFlare.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\Canvas\UiCanvasScalerSetScaleFactor.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Level\LoadLevelNum.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiSliderGetNormalizedValue.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Transform\TransformPoint.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetEventFloatData.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\AnimateVariables\AnimateFsmAction.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\AnyKey.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\SetAnimatorTrigger.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Input\TransformInputToWorldSpace.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\StateMachine\GetFsmGameObject.cs" />
@@ -1045,6 +1076,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Logic\BoolTest.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Vector2\SetVector2XY.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\RectTransform\RectTransformGetOffsetMin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Array\ArrayGetRandom.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiInputfieldSetCaretBlinkRate.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiInputFieldSetPlaceHolder.cs" />
@@ -1053,14 +1085,15 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Logic\GameObjectCompareTag.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiScrollbarSetSize.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Material\SetMaterialValue.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\SpriteRenderer\GetSpriteSortingLayer.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Trigonometry\GetTan.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\FloatDeltaAngle.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Convert\ConvertFloatToInt.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Material\SetTextureValue.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\GUILayout\GUILayoutIntField.cs" />
-    <Compile Include="Assets\Other\PlayMaker\Actions\Lights\SetLightSpotAngle.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Physics\RaycastAll.cs" />
+    <Compile Include="Assets\Other\PlayMaker\Actions\Lights\SetLightSpotAngle.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoClip\VideoClipGetOriginalPath.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\VideoPlayer\VideoPlayerGetSendFrameReadyEvents.cs" />
     <Compile Include="Assets\Other\PlayMaker\FsmProcessor.cs" />
@@ -1090,6 +1123,7 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\UI\UiScrollRectSetHorizontal.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Transform\SetRandomRotation.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\FloatWrap.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Math\SelectRandomInt.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\AnimateVariables\AnimateRect.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Animator\SetAnimatorSpeed.cs" />
@@ -1106,40 +1140,6 @@
     <Compile Include="Assets\Other\PlayMaker\Actions\Tween\BaseActions\TweenComponentBase.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Tween\TweenVector3.cs" />
     <Compile Include="Assets\Other\PlayMaker\Actions\Debug\DebugInt.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
